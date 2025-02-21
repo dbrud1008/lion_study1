@@ -16,10 +16,11 @@ namespace lionstudy3
             char st = 'S';
             string name = "Ace";
 
-            Console.WriteLine(hp);
-            Console.WriteLine(att);
-            Console.WriteLine(st);
-            Console.WriteLine(name);
+            Console.WriteLine("캐릭터");
+            Console.WriteLine("공격력: " + att);
+            Console.WriteLine("체력: " + hp);
+            Console.WriteLine("등급: " + st);
+            Console.WriteLine("캐릭터 이름: " + name);
         }
     }
 }
