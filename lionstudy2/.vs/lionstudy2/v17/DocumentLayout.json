@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6518DAE-116E-474F-84E1-6BF17735A648}|lionstudy2\\lionstudy2.csproj|c:\\users\\qw711\\onedrive\\desktop\\lionstudy\\lion_study1\\lionstudy2\\lionstudy2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6518DAE-116E-474F-84E1-6BF17735A648}|lionstudy2\\lionstudy2.csproj|solutionrelative:lionstudy2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy2\\lionstudy2\\Program.cs",
+              "RelativeDocumentMoniker": "lionstudy2\\Program.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy2\\lionstudy2\\Program.cs",
+              "RelativeToolTip": "lionstudy2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:20:58.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
