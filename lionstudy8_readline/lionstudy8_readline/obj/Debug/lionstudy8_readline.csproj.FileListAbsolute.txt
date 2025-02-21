@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy8_readline\lionstudy8_readline\bin\Debug\lionstudy8_readline.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy8_readline\lionstudy8_readline\bin\Debug\lionstudy8_readline.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy8_readline\lionstudy8_readline\bin\Debug\lionstudy8_readline.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy8_readline\lionstudy8_readline\obj\Debug\lionstudy8_readline.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy8_readline\lionstudy8_readline\obj\Debug\lionstudy8_readline.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy8_readline\lionstudy8_readline\obj\Debug\lionstudy8_readline.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy8_readline\lionstudy8_readline\obj\Debug\lionstudy8_readline.pdb
