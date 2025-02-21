@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy9_todaytask1\lionstudy9_todaytask1\bin\Debug\lionstudy9_todaytask1.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy9_todaytask1\lionstudy9_todaytask1\bin\Debug\lionstudy9_todaytask1.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy9_todaytask1\lionstudy9_todaytask1\bin\Debug\lionstudy9_todaytask1.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy9_todaytask1\lionstudy9_todaytask1\obj\Debug\lionstudy9_todaytask1.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy9_todaytask1\lionstudy9_todaytask1\obj\Debug\lionstudy9_todaytask1.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy9_todaytask1\lionstudy9_todaytask1\obj\Debug\lionstudy9_todaytask1.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy9_todaytask1\lionstudy9_todaytask1\obj\Debug\lionstudy9_todaytask1.pdb
