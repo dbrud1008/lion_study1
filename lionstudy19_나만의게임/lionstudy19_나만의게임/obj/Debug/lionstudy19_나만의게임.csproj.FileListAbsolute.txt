@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy19_나만의게임\lionstudy19_나만의게임\bin\Debug\lionstudy19_나만의게임.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy19_나만의게임\lionstudy19_나만의게임\bin\Debug\lionstudy19_나만의게임.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy19_나만의게임\lionstudy19_나만의게임\bin\Debug\lionstudy19_나만의게임.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy19_나만의게임\lionstudy19_나만의게임\obj\Debug\lionstudy19_나만의게임.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy19_나만의게임\lionstudy19_나만의게임\obj\Debug\lionstudy19_나만의게임.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy19_나만의게임\lionstudy19_나만의게임\obj\Debug\lionstudy19_나만의게임.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy19_나만의게임\lionstudy19_나만의게임\obj\Debug\lionstudy19_나만의게임.pdb

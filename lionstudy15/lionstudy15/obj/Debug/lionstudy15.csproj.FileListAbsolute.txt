@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy15\lionstudy15\obj\Debug\lionstudy15.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy15\lionstudy15\obj\Debug\lionstudy15.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy15\lionstudy15\bin\Debug\lionstudy15.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy15\lionstudy15\bin\Debug\lionstudy15.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy15\lionstudy15\bin\Debug\lionstudy15.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy15\lionstudy15\obj\Debug\lionstudy15.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy15\lionstudy15\obj\Debug\lionstudy15.pdb

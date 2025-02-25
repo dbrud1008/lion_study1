@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy18_콘솔좌표\lionstudy18_콘솔좌표\bin\Debug\lionstudy18_콘솔좌표.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy18_콘솔좌표\lionstudy18_콘솔좌표\bin\Debug\lionstudy18_콘솔좌표.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy18_콘솔좌표\lionstudy18_콘솔좌표\bin\Debug\lionstudy18_콘솔좌표.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy18_콘솔좌표\lionstudy18_콘솔좌표\obj\Debug\lionstudy18_콘솔좌표.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy18_콘솔좌표\lionstudy18_콘솔좌표\obj\Debug\lionstudy18_콘솔좌표.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy18_콘솔좌표\lionstudy18_콘솔좌표\obj\Debug\lionstudy18_콘솔좌표.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy18_콘솔좌표\lionstudy18_콘솔좌표\obj\Debug\lionstudy18_콘솔좌표.pdb

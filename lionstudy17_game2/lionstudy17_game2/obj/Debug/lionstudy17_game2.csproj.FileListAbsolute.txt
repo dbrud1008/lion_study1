@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy17_game2\lionstudy17_game2\obj\Debug\lionstudy17_game2.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy17_game2\lionstudy17_game2\obj\Debug\lionstudy17_game2.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy17_game2\lionstudy17_game2\bin\Debug\lionstudy17_game2.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy17_game2\lionstudy17_game2\bin\Debug\lionstudy17_game2.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy17_game2\lionstudy17_game2\bin\Debug\lionstudy17_game2.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy17_game2\lionstudy17_game2\obj\Debug\lionstudy17_game2.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy17_game2\lionstudy17_game2\obj\Debug\lionstudy17_game2.pdb
