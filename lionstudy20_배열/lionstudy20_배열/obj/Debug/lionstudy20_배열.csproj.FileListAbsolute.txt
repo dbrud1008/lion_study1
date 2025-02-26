@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy20_배열\lionstudy20_배열\bin\Debug\lionstudy20_배열.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy20_배열\lionstudy20_배열\bin\Debug\lionstudy20_배열.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy20_배열\lionstudy20_배열\bin\Debug\lionstudy20_배열.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy20_배열\lionstudy20_배열\obj\Debug\lionstudy20_배열.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy20_배열\lionstudy20_배열\obj\Debug\lionstudy20_배열.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy20_배열\lionstudy20_배열\obj\Debug\lionstudy20_배열.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy20_배열\lionstudy20_배열\obj\Debug\lionstudy20_배열.pdb

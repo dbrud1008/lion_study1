@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy22_함수\lionstudy22_함수\bin\Debug\lionstudy22_함수.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy22_함수\lionstudy22_함수\bin\Debug\lionstudy22_함수.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy22_함수\lionstudy22_함수\bin\Debug\lionstudy22_함수.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy22_함수\lionstudy22_함수\obj\Debug\lionstudy22_함수.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy22_함수\lionstudy22_함수\obj\Debug\lionstudy22_함수.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy22_함수\lionstudy22_함수\obj\Debug\lionstudy22_함수.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy22_함수\lionstudy22_함수\obj\Debug\lionstudy22_함수.pdb

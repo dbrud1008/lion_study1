@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy24_\uD568\uC218 \uBB38\uC81C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABECECC-2939-4BF0-8358-9077140CD1BD}|lionstudy24_\uD568\uC218 \uBB38\uC81C\\lionstudy24_\uD568\uC218 \uBB38\uC81C.csproj|c:\\users\\qw711\\onedrive\\desktop\\lionstudy\\lion_study1\\lionstudy24_\uD568\uC218 \uBB38\uC81C\\lionstudy24_\uD568\uC218 \uBB38\uC81C\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABECECC-2939-4BF0-8358-9077140CD1BD}|lionstudy24_\uD568\uC218 \uBB38\uC81C\\lionstudy24_\uD568\uC218 \uBB38\uC81C.csproj|solutionrelative:lionstudy24_\uD568\uC218 \uBB38\uC81C\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy24_\uD568\uC218 \uBB38\uC81C\\lionstudy24_\uD568\uC218 \uBB38\uC81C\\Program.cs",
+              "RelativeDocumentMoniker": "lionstudy24_\uD568\uC218 \uBB38\uC81C\\Program.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy24_\uD568\uC218 \uBB38\uC81C\\lionstudy24_\uD568\uC218 \uBB38\uC81C\\Program.cs",
+              "RelativeToolTip": "lionstudy24_\uD568\uC218 \uBB38\uC81C\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T07:54:55.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

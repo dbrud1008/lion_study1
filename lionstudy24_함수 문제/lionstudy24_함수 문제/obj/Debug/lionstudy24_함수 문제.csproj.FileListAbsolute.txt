@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy24_함수 문제\lionstudy24_함수 문제\bin\Debug\lionstudy24_함수 문제.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy24_함수 문제\lionstudy24_함수 문제\bin\Debug\lionstudy24_함수 문제.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy24_함수 문제\lionstudy24_함수 문제\bin\Debug\lionstudy24_함수 문제.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy24_함수 문제\lionstudy24_함수 문제\obj\Debug\lionstudy24_함수 문제.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy24_함수 문제\lionstudy24_함수 문제\obj\Debug\lionstudy24_함수 문제.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy24_함수 문제\lionstudy24_함수 문제\obj\Debug\lionstudy24_함수 문제.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy24_함수 문제\lionstudy24_함수 문제\obj\Debug\lionstudy24_함수 문제.pdb

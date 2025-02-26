@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy21_Bingo\lionstudy21_Bingo\bin\Debug\lionstudy21_Bingo.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy21_Bingo\lionstudy21_Bingo\bin\Debug\lionstudy21_Bingo.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy21_Bingo\lionstudy21_Bingo\bin\Debug\lionstudy21_Bingo.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy21_Bingo\lionstudy21_Bingo\obj\Debug\lionstudy21_Bingo.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy21_Bingo\lionstudy21_Bingo\obj\Debug\lionstudy21_Bingo.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy21_Bingo\lionstudy21_Bingo\obj\Debug\lionstudy21_Bingo.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy21_Bingo\lionstudy21_Bingo\obj\Debug\lionstudy21_Bingo.pdb
