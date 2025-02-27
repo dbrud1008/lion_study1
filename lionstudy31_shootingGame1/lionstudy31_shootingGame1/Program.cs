@@ -24,17 +24,17 @@ namespace lionstudy31_shootingGame1
                 this.playerY = playerY;
                 this.text = new string[]
                 {
-                    "->",
-                    ">>>", 
-                    "->",
+                    " . /) /)\r\n( ･`ω´･)╮−−＝＝≡≡≡ ♡♡♡.\r\n",
 
-                };//배열 문자열로 그리기
+                };
+                //배열 문자열로 그리기
                 
             }
 
         }
         static void Main(string[] args)
         {
+            Console.OutputEncoding = System.Text.Encoding.UTF8; //인코딩 폰트 안 깨지기
             Console.SetWindowSize(80, 25); // 콘솔 창 크기 설정 (가로 80, 세로 25)
             Console.SetBufferSize(80, 25); // 버퍼 크기도 동일하게 설정 (스크롤 방지)
 

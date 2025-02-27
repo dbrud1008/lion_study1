@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,21 +23,36 @@ namespace lionstudy30_inventory
             }
 
         }
+        
+        struct Item
+        {
+            public string itemname;
+            public int itemCount;
+            
+            public Item(string name, int count)
+            {
+                itemname = name;
+                itemCount = count;
+            }
+        }
+        
         //최대 아이템 개수 (배열 크기)
         const int MAX_ITEMS = 10;
 
         //아이템 배열 (이름 저장)
-        static string[] itemNames = new string[MAX_ITEMS];
-        static int[] itemCounts = new int[MAX_ITEMS];
+        //static string[] itemNames = new string[MAX_ITEMS];
+        //static int[] itemCounts = new int[MAX_ITEMS];
+
+        static Item[] items = new Item[MAX_ITEMS];
         
         //아이템 추가 함수
         static void AddItem(string name, int count)
         {
             for(int i =0; i<MAX_ITEMS; i++)
             {
-                if (itemNames[i] == name) //이미 있는 아이템이면 개수 증가
+                if (items[i].itemname == name) //이미 있는 아이템이면 개수 증가
                 {
-                    itemCounts[i] += count;
+                    items[i].itemCount += count;
                     return;
                 }
             }
@@ -44,10 +60,10 @@ namespace lionstudy30_inventory
             //빈 슬롯에 새로운 아이템 추가
             for (int i = 0; i < MAX_ITEMS; i++)
             {
-                if (itemNames[i] == null)
+                if (items[i].itemname == null)
                 {
-                    itemNames[i] = name;
-                    itemCounts[i] = count;
+                    items[i].itemname = name;
+                    items[i].itemCount = count;
                     return;
                 }
             }
@@ -59,14 +75,14 @@ namespace lionstudy30_inventory
         {
             for(int i=0; i<MAX_ITEMS; i++)
             {
-                if (itemNames[i] == name) //이름하고 같은지
+                if (items[i].itemname == name) //이름하고 같은지
                 {
-                    if (itemCounts[i] >= count) //개수가 충분하면 차감
+                    if (items[i].itemCount >= count) //개수가 충분하면 차감
                     {
-                        itemCounts[i] -= count;
-                        if (itemCounts[i] == 0) //개수가 0이면 삭제
+                        items[i].itemCount -= count;
+                        if (items[i].itemCount == 0) //개수가 0이면 삭제
                         {
-                            itemNames[i] = null;
+                            items[i].itemname = null;
                         }
                         return;
                     }
@@ -89,9 +105,9 @@ namespace lionstudy30_inventory
 
             for(int i = 0; i<MAX_ITEMS; i++)
             {
-                if (itemNames[i] !=null)
+                if (items[i].itemname !=null)
                 {
-                    Console.WriteLine($"{itemNames[i]} (x{itemCounts[i]})");
+                    Console.WriteLine($"{items[i].itemname} (x{items[i].itemCount})");
                     isEmpty = false;
                 }
             }
