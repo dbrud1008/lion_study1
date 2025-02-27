@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy30_inventory\lionstudy30_inventory\bin\Debug\lionstudy30_inventory.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy30_inventory\lionstudy30_inventory\bin\Debug\lionstudy30_inventory.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy30_inventory\lionstudy30_inventory\bin\Debug\lionstudy30_inventory.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy30_inventory\lionstudy30_inventory\obj\Debug\lionstudy30_inventory.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy30_inventory\lionstudy30_inventory\obj\Debug\lionstudy30_inventory.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy30_inventory\lionstudy30_inventory\obj\Debug\lionstudy30_inventory.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy30_inventory\lionstudy30_inventory\obj\Debug\lionstudy30_inventory.pdb
