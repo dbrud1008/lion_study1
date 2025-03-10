@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy64_Parent class test\lionstudy64_Parent class test\bin\Debug\lionstudy64_Parent class test.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy64_Parent class test\lionstudy64_Parent class test\bin\Debug\lionstudy64_Parent class test.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy64_Parent class test\lionstudy64_Parent class test\bin\Debug\lionstudy64_Parent class test.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy64_Parent class test\lionstudy64_Parent class test\obj\Debug\lionstudy64_Parent class test.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy64_Parent class test\lionstudy64_Parent class test\obj\Debug\lionstudy64_Parent class test.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy64_Parent class test\lionstudy64_Parent class test\obj\Debug\lionstudy64_Parent class test.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy64_Parent class test\lionstudy64_Parent class test\obj\Debug\lionstudy64_Parent class test.pdb

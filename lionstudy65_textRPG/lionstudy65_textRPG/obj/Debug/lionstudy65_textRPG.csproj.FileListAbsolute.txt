@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy65_textRPG\lionstudy65_textRPG\bin\Debug\lionstudy65_textRPG.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy65_textRPG\lionstudy65_textRPG\bin\Debug\lionstudy65_textRPG.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy65_textRPG\lionstudy65_textRPG\bin\Debug\lionstudy65_textRPG.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy65_textRPG\lionstudy65_textRPG\obj\Debug\lionstudy65_textRPG.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy65_textRPG\lionstudy65_textRPG\obj\Debug\lionstudy65_textRPG.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy65_textRPG\lionstudy65_textRPG\obj\Debug\lionstudy65_textRPG.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy65_textRPG\lionstudy65_textRPG\obj\Debug\lionstudy65_textRPG.pdb

@@ -19,8 +19,8 @@ namespace lionstudy23
             //    Console.Write(num[i] + " ");
             //}
 
-            //Q2. 배열 요소 합 구하기
-            //사용자가 5개의 정수를 입력하면 배열에 저장하고, 모든 수의 합을 출력하세요.
+            ////Q2. 배열 요소 합 구하기
+            ////사용자가 5개의 정수를 입력하면 배열에 저장하고, 모든 수의 합을 출력하세요.
 
             //int[] number = new int[5];
             //int sum = 0;
@@ -29,7 +29,7 @@ namespace lionstudy23
 
             //for (int i = 0; i < number.Length; i++)
             //{
-            //    number[i] = int.Parse(Console.ReadLine()); 
+            //    number[i] = int.Parse(Console.ReadLine());
 
             //    sum += number[i];
             //}
@@ -37,11 +37,11 @@ namespace lionstudy23
             //Console.WriteLine("총점: " + sum);
 
 
-            //Q3. 최대값 찾기
-            //정수 배열 {3, 8, 15, 6, 2}에서 가장 큰 값을 찾아 출력하세요.
+            ////Q3. 최대값 찾기
+            ////정수 배열 {3, 8, 15, 6, 2}에서 가장 큰 값을 찾아 출력하세요.
             //int[] num = new int[5] { 3, 8, 15, 6, 2 };
             //int maxnumber = 0;
-            //for (int i = 0; i<num.Length; i++)
+            //for (int i = 0; i < num.Length; i++)
             //{
             //    if (maxnumber < num[i])
             //        maxnumber = num[i];
@@ -49,15 +49,15 @@ namespace lionstudy23
             //Console.WriteLine("최대값: " + maxnumber);
 
 
-            //반복문 문제
-            //Q4. 1부터 10까지 출력 (for문)
+            ////반복문 문제
+            ////Q4. 1부터 10까지 출력 (for문)
             //for (int i = 1; i <= 10; i++)
             //{
-            //    Console.Write(i+" ");
+            //    Console.Write(i + " ");
             //}
 
 
-            //Q5. 짝수만 출력 (while문)
+            ////Q5.짝수만 출력(while문)
             //int a = 1;
             //while (a <= 10)
             //{

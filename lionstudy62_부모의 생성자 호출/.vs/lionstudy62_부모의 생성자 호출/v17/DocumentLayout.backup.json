@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy62_\uBD80\uBAA8\uC758 \uC0DD\uC131\uC790 \uD638\uCD9C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23D3BE7A-77C4-41C8-98A2-0F75F934A34F}|lionstudy62_\uBD80\uBAA8\uC758 \uC0DD\uC131\uC790 \uD638\uCD9C\\lionstudy62_\uBD80\uBAA8\uC758 \uC0DD\uC131\uC790 \uD638\uCD9C.csproj|c:\\users\\qw711\\onedrive\\desktop\\lionstudy\\lion_study1\\lionstudy62_\uBD80\uBAA8\uC758 \uC0DD\uC131\uC790 \uD638\uCD9C\\lionstudy62_\uBD80\uBAA8\uC758 \uC0DD\uC131\uC790 \uD638\uCD9C\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D3BE7A-77C4-41C8-98A2-0F75F934A34F}|lionstudy62_\uBD80\uBAA8\uC758 \uC0DD\uC131\uC790 \uD638\uCD9C\\lionstudy62_\uBD80\uBAA8\uC758 \uC0DD\uC131\uC790 \uD638\uCD9C.csproj|solutionrelative:lionstudy62_\uBD80\uBAA8\uC758 \uC0DD\uC131\uC790 \uD638\uCD9C\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy62_\uBD80\uBAA8\uC758 \uC0DD\uC131\uC790 \uD638\uCD9C\\lionstudy62_\uBD80\uBAA8\uC758 \uC0DD\uC131\uC790 \uD638\uCD9C\\Program.cs",
+              "RelativeDocumentMoniker": "lionstudy62_\uBD80\uBAA8\uC758 \uC0DD\uC131\uC790 \uD638\uCD9C\\Program.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy62_\uBD80\uBAA8\uC758 \uC0DD\uC131\uC790 \uD638\uCD9C\\lionstudy62_\uBD80\uBAA8\uC758 \uC0DD\uC131\uC790 \uD638\uCD9C\\Program.cs*",
+              "RelativeToolTip": "lionstudy62_\uBD80\uBAA8\uC758 \uC0DD\uC131\uC790 \uD638\uCD9C\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:47:34.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

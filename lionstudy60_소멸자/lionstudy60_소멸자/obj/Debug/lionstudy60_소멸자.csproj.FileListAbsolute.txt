@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy60_소멸자\lionstudy60_소멸자\bin\Debug\lionstudy60_소멸자.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy60_소멸자\lionstudy60_소멸자\bin\Debug\lionstudy60_소멸자.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy60_소멸자\lionstudy60_소멸자\bin\Debug\lionstudy60_소멸자.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy60_소멸자\lionstudy60_소멸자\obj\Debug\lionstudy60_소멸자.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy60_소멸자\lionstudy60_소멸자\obj\Debug\lionstudy60_소멸자.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy60_소멸자\lionstudy60_소멸자\obj\Debug\lionstudy60_소멸자.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy60_소멸자\lionstudy60_소멸자\obj\Debug\lionstudy60_소멸자.pdb

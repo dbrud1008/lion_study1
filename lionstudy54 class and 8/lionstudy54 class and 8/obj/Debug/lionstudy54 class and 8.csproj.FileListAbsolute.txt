@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy54 class and 8\lionstudy54 class and 8\bin\Debug\lionstudy54 class and 8.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy54 class and 8\lionstudy54 class and 8\bin\Debug\lionstudy54 class and 8.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy54 class and 8\lionstudy54 class and 8\bin\Debug\lionstudy54 class and 8.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy54 class and 8\lionstudy54 class and 8\obj\Debug\lionstudy54 class and 8.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy54 class and 8\lionstudy54 class and 8\obj\Debug\lionstudy54 class and 8.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy54 class and 8\lionstudy54 class and 8\obj\Debug\lionstudy54 class and 8.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy54 class and 8\lionstudy54 class and 8\obj\Debug\lionstudy54 class and 8.pdb

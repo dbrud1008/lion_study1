@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy58_namespace2\lionstudy58_namespace2\bin\Debug\lionstudy58_namespace2.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy58_namespace2\lionstudy58_namespace2\bin\Debug\lionstudy58_namespace2.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy58_namespace2\lionstudy58_namespace2\bin\Debug\lionstudy58_namespace2.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy58_namespace2\lionstudy58_namespace2\obj\Debug\lionstudy58_namespace2.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy58_namespace2\lionstudy58_namespace2\obj\Debug\lionstudy58_namespace2.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy58_namespace2\lionstudy58_namespace2\obj\Debug\lionstudy58_namespace2.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy58_namespace2\lionstudy58_namespace2\obj\Debug\lionstudy58_namespace2.pdb

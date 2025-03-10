@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy35_shootingGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{473DBF81-9E2A-44D7-93B3-7AA4991C5DFB}|lionstudy35_shootingGame\\lionstudy35_shootingGame.csproj|c:\\users\\qw711\\onedrive\\desktop\\lionstudy\\lion_study1\\lionstudy35_shootinggame\\lionstudy35_shootinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473DBF81-9E2A-44D7-93B3-7AA4991C5DFB}|lionstudy35_shootingGame\\lionstudy35_shootingGame.csproj|solutionrelative:lionstudy35_shootinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy35_shootingGame\\lionstudy35_shootingGame\\Program.cs",
+              "RelativeDocumentMoniker": "lionstudy35_shootingGame\\Program.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy35_shootingGame\\lionstudy35_shootingGame\\Program.cs",
+              "RelativeToolTip": "lionstudy35_shootingGame\\Program.cs",
+              "ViewState": "AgIAANoBAAAAAAAAAAA6wPkBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:11:17.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -82,7 +82,7 @@ namespace lionstudy29
 
             //p.Print();
 
-            //Point p1 = new Point(5,15);
+            //Point p1 = new Point(5, 15);
             //p1.Print();
 
 

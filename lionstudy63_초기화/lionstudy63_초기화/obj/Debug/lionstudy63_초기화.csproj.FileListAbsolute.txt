@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy63_초기화\lionstudy63_초기화\bin\Debug\lionstudy63_초기화.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy63_초기화\lionstudy63_초기화\bin\Debug\lionstudy63_초기화.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy63_초기화\lionstudy63_초기화\bin\Debug\lionstudy63_초기화.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy63_초기화\lionstudy63_초기화\obj\Debug\lionstudy63_초기화.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy63_초기화\lionstudy63_초기화\obj\Debug\lionstudy63_초기화.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy63_초기화\lionstudy63_초기화\obj\Debug\lionstudy63_초기화.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy63_초기화\lionstudy63_초기화\obj\Debug\lionstudy63_초기화.pdb

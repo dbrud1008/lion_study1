@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy40_Environment\lionstudy40_Environment\bin\Debug\lionstudy40_Environment.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy40_Environment\lionstudy40_Environment\bin\Debug\lionstudy40_Environment.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy40_Environment\lionstudy40_Environment\bin\Debug\lionstudy40_Environment.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy40_Environment\lionstudy40_Environment\obj\Debug\lionstudy40_Environment.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy40_Environment\lionstudy40_Environment\obj\Debug\lionstudy40_Environment.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy40_Environment\lionstudy40_Environment\obj\Debug\lionstudy40_Environment.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy40_Environment\lionstudy40_Environment\obj\Debug\lionstudy40_Environment.pdb

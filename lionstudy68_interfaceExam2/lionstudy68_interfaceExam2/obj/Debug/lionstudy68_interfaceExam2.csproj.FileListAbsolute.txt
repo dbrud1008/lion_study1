@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy68_interfaceExam2\lionstudy68_interfaceExam2\bin\Debug\lionstudy68_interfaceExam2.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy68_interfaceExam2\lionstudy68_interfaceExam2\bin\Debug\lionstudy68_interfaceExam2.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy68_interfaceExam2\lionstudy68_interfaceExam2\bin\Debug\lionstudy68_interfaceExam2.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy68_interfaceExam2\lionstudy68_interfaceExam2\obj\Debug\lionstudy68_interfaceExam2.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy68_interfaceExam2\lionstudy68_interfaceExam2\obj\Debug\lionstudy68_interfaceExam2.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy68_interfaceExam2\lionstudy68_interfaceExam2\obj\Debug\lionstudy68_interfaceExam2.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy68_interfaceExam2\lionstudy68_interfaceExam2\obj\Debug\lionstudy68_interfaceExam2.pdb

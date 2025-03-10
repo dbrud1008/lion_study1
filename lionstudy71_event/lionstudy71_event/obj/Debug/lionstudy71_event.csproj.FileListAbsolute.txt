@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy71_event\lionstudy71_event\bin\Debug\lionstudy71_event.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy71_event\lionstudy71_event\bin\Debug\lionstudy71_event.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy71_event\lionstudy71_event\bin\Debug\lionstudy71_event.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy71_event\lionstudy71_event\obj\Debug\lionstudy71_event.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy71_event\lionstudy71_event\obj\Debug\lionstudy71_event.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy71_event\lionstudy71_event\obj\Debug\lionstudy71_event.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy71_event\lionstudy71_event\obj\Debug\lionstudy71_event.pdb

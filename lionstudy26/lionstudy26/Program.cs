@@ -24,9 +24,9 @@ namespace lionstudy26
         //static void Print()
         //{
         //    Console.WriteLine("나는 재귀함수다.");
-        //    Print(); //무한반복
+        //Print(); //무한반복
         //}
-        
+
         static int Factorial(int n)
         {
             if (n <= 1)

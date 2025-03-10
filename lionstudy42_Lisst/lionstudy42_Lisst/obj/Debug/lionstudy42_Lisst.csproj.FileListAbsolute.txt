@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy42_Lisst\lionstudy42_Lisst\bin\Debug\lionstudy42_Lisst.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy42_Lisst\lionstudy42_Lisst\bin\Debug\lionstudy42_Lisst.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy42_Lisst\lionstudy42_Lisst\bin\Debug\lionstudy42_Lisst.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy42_Lisst\lionstudy42_Lisst\obj\Debug\lionstudy42_Lisst.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy42_Lisst\lionstudy42_Lisst\obj\Debug\lionstudy42_Lisst.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy42_Lisst\lionstudy42_Lisst\obj\Debug\lionstudy42_Lisst.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy42_Lisst\lionstudy42_Lisst\obj\Debug\lionstudy42_Lisst.pdb

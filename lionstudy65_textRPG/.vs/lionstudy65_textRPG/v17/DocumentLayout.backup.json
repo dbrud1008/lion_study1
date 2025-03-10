@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy65_textRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1B9FD8-CE38-43AB-8AFC-89F1E672E459}|lionstudy65_textRPG\\lionstudy65_textRPG.csproj|c:\\users\\qw711\\onedrive\\desktop\\lionstudy\\lion_study1\\lionstudy65_textrpg\\lionstudy65_textrpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1B9FD8-CE38-43AB-8AFC-89F1E672E459}|lionstudy65_textRPG\\lionstudy65_textRPG.csproj|solutionrelative:lionstudy65_textrpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1B9FD8-CE38-43AB-8AFC-89F1E672E459}|lionstudy65_textRPG\\lionstudy65_textRPG.csproj|c:\\users\\qw711\\onedrive\\desktop\\lionstudy\\lion_study1\\lionstudy65_textrpg\\lionstudy65_textrpg\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1B9FD8-CE38-43AB-8AFC-89F1E672E459}|lionstudy65_textRPG\\lionstudy65_textRPG.csproj|solutionrelative:lionstudy65_textrpg\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1B9FD8-CE38-43AB-8AFC-89F1E672E459}|lionstudy65_textRPG\\lionstudy65_textRPG.csproj|c:\\users\\qw711\\onedrive\\desktop\\lionstudy\\lion_study1\\lionstudy65_textrpg\\lionstudy65_textrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1B9FD8-CE38-43AB-8AFC-89F1E672E459}|lionstudy65_textRPG\\lionstudy65_textRPG.csproj|solutionrelative:lionstudy65_textrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1B9FD8-CE38-43AB-8AFC-89F1E672E459}|lionstudy65_textRPG\\lionstudy65_textRPG.csproj|c:\\users\\qw711\\onedrive\\desktop\\lionstudy\\lion_study1\\lionstudy65_textrpg\\lionstudy65_textrpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1B9FD8-CE38-43AB-8AFC-89F1E672E459}|lionstudy65_textRPG\\lionstudy65_textRPG.csproj|solutionrelative:lionstudy65_textrpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1B9FD8-CE38-43AB-8AFC-89F1E672E459}|lionstudy65_textRPG\\lionstudy65_textRPG.csproj|c:\\users\\qw711\\onedrive\\desktop\\lionstudy\\lion_study1\\lionstudy65_textrpg\\lionstudy65_textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1B9FD8-CE38-43AB-8AFC-89F1E672E459}|lionstudy65_textRPG\\lionstudy65_textRPG.csproj|solutionrelative:lionstudy65_textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1B9FD8-CE38-43AB-8AFC-89F1E672E459}|lionstudy65_textRPG\\lionstudy65_textRPG.csproj|c:\\users\\qw711\\onedrive\\desktop\\lionstudy\\lion_study1\\lionstudy65_textrpg\\lionstudy65_textrpg\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1B9FD8-CE38-43AB-8AFC-89F1E672E459}|lionstudy65_textRPG\\lionstudy65_textRPG.csproj|solutionrelative:lionstudy65_textrpg\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy65_textRPG\\lionstudy65_textRPG\\Player.cs",
+              "RelativeDocumentMoniker": "lionstudy65_textRPG\\Player.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy65_textRPG\\lionstudy65_textRPG\\Player.cs",
+              "RelativeToolTip": "lionstudy65_textRPG\\Player.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:49:36.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy65_textRPG\\lionstudy65_textRPG\\Monster.cs",
+              "RelativeDocumentMoniker": "lionstudy65_textRPG\\Monster.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy65_textRPG\\lionstudy65_textRPG\\Monster.cs",
+              "RelativeToolTip": "lionstudy65_textRPG\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:49:36.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy65_textRPG\\lionstudy65_textRPG\\MainGame.cs",
+              "RelativeDocumentMoniker": "lionstudy65_textRPG\\MainGame.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy65_textRPG\\lionstudy65_textRPG\\MainGame.cs",
+              "RelativeToolTip": "lionstudy65_textRPG\\MainGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:49:35.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INFO.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy65_textRPG\\lionstudy65_textRPG\\INFO.cs",
+              "RelativeDocumentMoniker": "lionstudy65_textRPG\\INFO.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy65_textRPG\\lionstudy65_textRPG\\INFO.cs",
+              "RelativeToolTip": "lionstudy65_textRPG\\INFO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:49:34.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy65_textRPG\\lionstudy65_textRPG\\Field.cs",
+              "RelativeDocumentMoniker": "lionstudy65_textRPG\\Field.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy65_textRPG\\lionstudy65_textRPG\\Field.cs",
+              "RelativeToolTip": "lionstudy65_textRPG\\Field.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:49:33.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy65_textRPG\\lionstudy65_textRPG\\Program.cs",
+              "RelativeDocumentMoniker": "lionstudy65_textRPG\\Program.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy65_textRPG\\lionstudy65_textRPG\\Program.cs",
+              "RelativeToolTip": "lionstudy65_textRPG\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:04:56.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

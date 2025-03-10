@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy72_BrickGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4001174F-3CB9-437F-84E9-C7E49FC6D876}|lionstudy72_BrickGame\\lionstudy72_BrickGame.csproj|C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy72_BrickGame\\lionstudy72_brickgame\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4001174F-3CB9-437F-84E9-C7E49FC6D876}|lionstudy72_BrickGame\\lionstudy72_BrickGame.csproj|solutionrelative:lionstudy72_brickgame\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4001174F-3CB9-437F-84E9-C7E49FC6D876}|lionstudy72_BrickGame\\lionstudy72_BrickGame.csproj|C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy72_BrickGame\\lionstudy72_brickgame\\bardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4001174F-3CB9-437F-84E9-C7E49FC6D876}|lionstudy72_BrickGame\\lionstudy72_BrickGame.csproj|solutionrelative:lionstudy72_brickgame\\bardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4001174F-3CB9-437F-84E9-C7E49FC6D876}|lionstudy72_BrickGame\\lionstudy72_BrickGame.csproj|c:\\users\\qw711\\onedrive\\desktop\\lionstudy\\lion_study1\\lionstudy72_brickgame\\lionstudy72_brickgame\\walldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4001174F-3CB9-437F-84E9-C7E49FC6D876}|lionstudy72_BrickGame\\lionstudy72_BrickGame.csproj|solutionrelative:lionstudy72_brickgame\\walldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4001174F-3CB9-437F-84E9-C7E49FC6D876}|lionstudy72_BrickGame\\lionstudy72_BrickGame.csproj|c:\\users\\qw711\\onedrive\\desktop\\lionstudy\\lion_study1\\lionstudy72_brickgame\\lionstudy72_brickgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4001174F-3CB9-437F-84E9-C7E49FC6D876}|lionstudy72_BrickGame\\lionstudy72_BrickGame.csproj|solutionrelative:lionstudy72_brickgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4001174F-3CB9-437F-84E9-C7E49FC6D876}|lionstudy72_BrickGame\\lionstudy72_BrickGame.csproj|c:\\users\\qw711\\onedrive\\desktop\\lionstudy\\lion_study1\\lionstudy72_brickgame\\lionstudy72_brickgame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4001174F-3CB9-437F-84E9-C7E49FC6D876}|lionstudy72_BrickGame\\lionstudy72_BrickGame.csproj|solutionrelative:lionstudy72_brickgame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4001174F-3CB9-437F-84E9-C7E49FC6D876}|lionstudy72_BrickGame\\lionstudy72_BrickGame.csproj|C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy72_BrickGame\\lionstudy72_brickgame\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4001174F-3CB9-437F-84E9-C7E49FC6D876}|lionstudy72_BrickGame\\lionstudy72_BrickGame.csproj|solutionrelative:lionstudy72_brickgame\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4001174F-3CB9-437F-84E9-C7E49FC6D876}|lionstudy72_BrickGame\\lionstudy72_BrickGame.csproj|C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy72_BrickGame\\lionstudy72_brickgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4001174F-3CB9-437F-84E9-C7E49FC6D876}|lionstudy72_BrickGame\\lionstudy72_BrickGame.csproj|solutionrelative:lionstudy72_brickgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bar.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy72_BrickGame\\lionstudy72_BrickGame\\Bar.cs",
+              "RelativeDocumentMoniker": "lionstudy72_BrickGame\\Bar.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy72_BrickGame\\lionstudy72_BrickGame\\Bar.cs",
+              "RelativeToolTip": "lionstudy72_BrickGame\\Bar.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:23:13.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy72_BrickGame\\lionstudy72_BrickGame\\GameManager.cs",
+              "RelativeDocumentMoniker": "lionstudy72_BrickGame\\GameManager.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy72_BrickGame\\lionstudy72_BrickGame\\GameManager.cs",
+              "RelativeToolTip": "lionstudy72_BrickGame\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:01:18.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WallData.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy72_BrickGame\\lionstudy72_BrickGame\\WallData.cs",
+              "RelativeDocumentMoniker": "lionstudy72_BrickGame\\WallData.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy72_BrickGame\\lionstudy72_BrickGame\\WallData.cs",
+              "RelativeToolTip": "lionstudy72_BrickGame\\WallData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:34:53.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BarData.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy72_BrickGame\\lionstudy72_BrickGame\\BarData.cs",
+              "RelativeDocumentMoniker": "lionstudy72_BrickGame\\BarData.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy72_BrickGame\\lionstudy72_BrickGame\\BarData.cs",
+              "RelativeToolTip": "lionstudy72_BrickGame\\BarData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:25:01.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy72_BrickGame\\lionstudy72_BrickGame\\Ball.cs",
+              "RelativeDocumentMoniker": "lionstudy72_BrickGame\\Ball.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy72_BrickGame\\lionstudy72_BrickGame\\Ball.cs",
+              "RelativeToolTip": "lionstudy72_BrickGame\\Ball.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAKcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:43:25.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BallData.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy72_BrickGame\\lionstudy72_BrickGame\\BallData.cs",
+              "RelativeDocumentMoniker": "lionstudy72_BrickGame\\BallData.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy72_BrickGame\\lionstudy72_BrickGame\\BallData.cs",
+              "RelativeToolTip": "lionstudy72_BrickGame\\BallData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:38:34.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy72_BrickGame\\lionstudy72_BrickGame\\Program.cs",
+              "RelativeDocumentMoniker": "lionstudy72_BrickGame\\Program.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy72_BrickGame\\lionstudy72_BrickGame\\Program.cs",
+              "RelativeToolTip": "lionstudy72_BrickGame\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:32:36.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -32,16 +32,16 @@ namespace lionstudy20_배열
             //}
 
 
-            ////배열 선언 방법 3가지
+            //배열 선언 방법 3가지
             //int[] numbers = { 1, 2, 3 }; //배열은 중괄호로 담고, 간단한 선언과 초기화
-            //int[] numbers2 = new int[3]; //크기만 지정
+            int[] numbers2 = new int[3]; //크기만 지정
             //int[] numbers3 = new int[] { 1, 2, 3 }; //초기화와 함께 선언 --> 개수를 보면서 메모리에 넣어짐
 
 
-            //for(int i =0; i<3; i++)
-            //{
-            //    Console.WriteLine(numbers[i]);
-            //}
+            for (int i = 0; i < 3; i++)
+            {
+                Console.WriteLine(numbers2[i]);
+            }
 
             //string[] fruits = { "사과", "바나나", "오렌지" }; //문자열의 배열
 
@@ -94,7 +94,7 @@ namespace lionstudy20_배열
             //score[1] = 85;
             //score[2] = 88;
 
-            //for(int i = 0; i<score.Length; i++) //score.Length = 3, 배열이 몇개인지 잘 모를때를 위해 유용하게 쓰이는 것, 배열 전체
+            //for (int i = 0; i < score.Length; i++) //score.Length = 3, 배열이 몇개인지 잘 모를때를 위해 유용하게 쓰이는 것, 배열 전체
             //{
             //    Console.WriteLine($"점수 {i + 1} : {score[i]}");
             //}
@@ -124,14 +124,14 @@ namespace lionstudy20_배열
             ////};
             //{{1,2,3},{4,5,6}};
 
-            //for(int i=0; i<2; i++) //i가 0잍 때, j의 반복문 다 돌고 i 반복문으로 돌아와 3번 반복
+            //for (int i = 0; i < 2; i++) //i가 0잍 때, j의 반복문 다 돌고 i 반복문으로 돌아와 3번 반복
             //{
-            //    Console.WriteLine("i = "+i);
-            //    for(int j=0; j<3; j++)
+            //    Console.WriteLine("i = " + i);
+            //    for (int j = 0; j < 3; j++)
             //    {
-            //        Console.WriteLine("j = "+j);
+            //        Console.WriteLine("j = " + j);
             //    }
-            //    for(int j=0; j<3; j++)
+            //    for (int j = 0; j < 3; j++)
             //    {
             //        Console.Write($"{matrix[i, j]}");
             //    }
@@ -156,7 +156,7 @@ namespace lionstudy20_배열
             ////출력
             //for (int i = 0; i < matrix.Length; i++)
             //{
-            //    for(int j=0; j < matrix[i].Length; j++)
+            //    for (int j = 0; j < matrix[i].Length; j++)
             //    {
             //        Console.Write(matrix[i][j] + " ");
             //    }
@@ -173,9 +173,9 @@ namespace lionstudy20_배열
             //jaggedArray[1] = new int[] { 3, 4, 5 };
             //jaggedArray[2] = new int[] { 6 };
 
-            //for(int i=0; i<jaggedArray.Length; i++)
+            //for (int i = 0; i < jaggedArray.Length; i++)
             //{
-            //    for(int j=0; j < jaggedArray[i].Length; j++)
+            //    for (int j = 0; j < jaggedArray[i].Length; j++)
             //    {
             //        Console.Write($"{jaggedArray[i][j]}");
             //        Console.WriteLine();
@@ -191,13 +191,14 @@ namespace lionstudy20_배열
             //그래서 말하신대로 int[][y] 로 초기화를 하면 안될 겁니다
             //int[행][열] 이라고 생각하시면 될듯 합니다.
 
-            string[] fruits = { "사과", "바나나", "체리" };
 
-            //반복문
-            foreach(string fruit in fruits)// 새로운 변수를 만들어서 대신 순환하게함
-            {
-                Console.WriteLine(fruit);
-            }
+            //string[] fruits = { "사과", "바나나", "체리" };
+
+            ////반복문
+            //foreach (string fruit in fruits)// 새로운 변수를 만들어서 대신 순환하게함
+            //{
+            //    Console.WriteLine(fruit);
+            //}
 
         }
     }

@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy72_BrickGame\lionstudy72_BrickGame\bin\Debug\lionstudy72_BrickGame.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy72_BrickGame\lionstudy72_BrickGame\bin\Debug\lionstudy72_BrickGame.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy72_BrickGame\lionstudy72_BrickGame\bin\Debug\lionstudy72_BrickGame.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy72_BrickGame\lionstudy72_BrickGame\obj\Debug\lionstudy72_BrickGame.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy72_BrickGame\lionstudy72_BrickGame\obj\Debug\lionstudy72_BrickGame.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy72_BrickGame\lionstudy72_BrickGame\obj\Debug\lionstudy72_BrickGame.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy72_BrickGame\lionstudy72_BrickGame\obj\Debug\lionstudy72_BrickGame.pdb

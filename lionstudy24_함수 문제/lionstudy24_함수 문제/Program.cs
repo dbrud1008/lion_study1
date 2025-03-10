@@ -10,7 +10,7 @@ namespace lionstudy24_함수_문제
     {
         static void Main(string[] args)
         {
-            //Q7. 두 수의 합을 구하는 함수
+            ////Q7. 두 수의 합을 구하는 함수
             //Console.WriteLine("두 개의 정수를 입력하세요 ");
             //string input = Console.ReadLine();
             //string[] numbers = input.Split(' ');
@@ -21,7 +21,7 @@ namespace lionstudy24_함수_문제
             //Console.WriteLine($"{num1}과 {num2}의 합: {Add(num1, num2)}");
 
 
-            //Q8. 문자열을 입력받아 길이를 반환하는 함수
+            ////Q8. 문자열을 입력받아 길이를 반환하는 함수
             //Console.Write("문자열 입력: ");
             //string input = Console.ReadLine();
             //Console.WriteLine("문자열 길이: " + back(input));

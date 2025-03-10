@@ -1,0 +1,7 @@
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy35_shootingGame\lionstudy35_shootingGame\obj\Debug\lionstudy35_shootingGame.csproj.AssemblyReference.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy35_shootingGame\lionstudy35_shootingGame\obj\Debug\lionstudy35_shootingGame.csproj.CoreCompileInputs.cache
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy35_shootingGame\lionstudy35_shootingGame\bin\Debug\lionstudy35_shootingGame.exe.config
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy35_shootingGame\lionstudy35_shootingGame\bin\Debug\lionstudy35_shootingGame.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy35_shootingGame\lionstudy35_shootingGame\bin\Debug\lionstudy35_shootingGame.pdb
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy35_shootingGame\lionstudy35_shootingGame\obj\Debug\lionstudy35_shootingGame.exe
+C:\Users\qw711\OneDrive\Desktop\Lionstudy\lion_study1\lionstudy35_shootingGame\lionstudy35_shootingGame\obj\Debug\lionstudy35_shootingGame.pdb

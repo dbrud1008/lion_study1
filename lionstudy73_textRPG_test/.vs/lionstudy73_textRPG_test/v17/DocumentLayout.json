@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy73_textRPG_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{117E607C-B469-4275-91EF-9ED9887C8A64}|lionstudy73_textRPG_test\\lionstudy73_textRPG_test.csproj|c:\\users\\qw711\\onedrive\\desktop\\lionstudy\\lion_study1\\lionstudy73_textrpg_test\\lionstudy73_textrpg_test\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117E607C-B469-4275-91EF-9ED9887C8A64}|lionstudy73_textRPG_test\\lionstudy73_textRPG_test.csproj|solutionrelative:lionstudy73_textrpg_test\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117E607C-B469-4275-91EF-9ED9887C8A64}|lionstudy73_textRPG_test\\lionstudy73_textRPG_test.csproj|c:\\users\\qw711\\onedrive\\desktop\\lionstudy\\lion_study1\\lionstudy73_textrpg_test\\lionstudy73_textrpg_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117E607C-B469-4275-91EF-9ED9887C8A64}|lionstudy73_textRPG_test\\lionstudy73_textRPG_test.csproj|solutionrelative:lionstudy73_textrpg_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117E607C-B469-4275-91EF-9ED9887C8A64}|lionstudy73_textRPG_test\\lionstudy73_textRPG_test.csproj|c:\\users\\qw711\\onedrive\\desktop\\lionstudy\\lion_study1\\lionstudy73_textrpg_test\\lionstudy73_textrpg_test\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117E607C-B469-4275-91EF-9ED9887C8A64}|lionstudy73_textRPG_test\\lionstudy73_textRPG_test.csproj|solutionrelative:lionstudy73_textrpg_test\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117E607C-B469-4275-91EF-9ED9887C8A64}|lionstudy73_textRPG_test\\lionstudy73_textRPG_test.csproj|c:\\users\\qw711\\onedrive\\desktop\\lionstudy\\lion_study1\\lionstudy73_textrpg_test\\lionstudy73_textrpg_test\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117E607C-B469-4275-91EF-9ED9887C8A64}|lionstudy73_textRPG_test\\lionstudy73_textRPG_test.csproj|solutionrelative:lionstudy73_textrpg_test\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117E607C-B469-4275-91EF-9ED9887C8A64}|lionstudy73_textRPG_test\\lionstudy73_textRPG_test.csproj|c:\\users\\qw711\\onedrive\\desktop\\lionstudy\\lion_study1\\lionstudy73_textrpg_test\\lionstudy73_textrpg_test\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117E607C-B469-4275-91EF-9ED9887C8A64}|lionstudy73_textRPG_test\\lionstudy73_textRPG_test.csproj|solutionrelative:lionstudy73_textrpg_test\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117E607C-B469-4275-91EF-9ED9887C8A64}|lionstudy73_textRPG_test\\lionstudy73_textRPG_test.csproj|c:\\users\\qw711\\onedrive\\desktop\\lionstudy\\lion_study1\\lionstudy73_textrpg_test\\lionstudy73_textrpg_test\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117E607C-B469-4275-91EF-9ED9887C8A64}|lionstudy73_textRPG_test\\lionstudy73_textRPG_test.csproj|solutionrelative:lionstudy73_textrpg_test\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy73_textRPG_test\\lionstudy73_textRPG_test\\GameManager.cs",
+              "RelativeDocumentMoniker": "lionstudy73_textRPG_test\\GameManager.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy73_textRPG_test\\lionstudy73_textRPG_test\\GameManager.cs",
+              "RelativeToolTip": "lionstudy73_textRPG_test\\GameManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwDAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:43:04.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy73_textRPG_test\\lionstudy73_textRPG_test\\Field.cs",
+              "RelativeDocumentMoniker": "lionstudy73_textRPG_test\\Field.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy73_textRPG_test\\lionstudy73_textRPG_test\\Field.cs",
+              "RelativeToolTip": "lionstudy73_textRPG_test\\Field.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAYwBwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:26:50.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy73_textRPG_test\\lionstudy73_textRPG_test\\Monster.cs",
+              "RelativeDocumentMoniker": "lionstudy73_textRPG_test\\Monster.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy73_textRPG_test\\lionstudy73_textRPG_test\\Monster.cs",
+              "RelativeToolTip": "lionstudy73_textRPG_test\\Monster.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:23:15.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy73_textRPG_test\\lionstudy73_textRPG_test\\Player.cs",
+              "RelativeDocumentMoniker": "lionstudy73_textRPG_test\\Player.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy73_textRPG_test\\lionstudy73_textRPG_test\\Player.cs",
+              "RelativeToolTip": "lionstudy73_textRPG_test\\Player.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwD0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:11:43.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INFO.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy73_textRPG_test\\lionstudy73_textRPG_test\\INFO.cs",
+              "RelativeDocumentMoniker": "lionstudy73_textRPG_test\\INFO.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy73_textRPG_test\\lionstudy73_textRPG_test\\INFO.cs",
+              "RelativeToolTip": "lionstudy73_textRPG_test\\INFO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:11:11.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy73_textRPG_test\\lionstudy73_textRPG_test\\Program.cs",
+              "RelativeDocumentMoniker": "lionstudy73_textRPG_test\\Program.cs",
+              "ToolTip": "C:\\Users\\qw711\\OneDrive\\Desktop\\Lionstudy\\lion_study1\\lionstudy73_textRPG_test\\lionstudy73_textRPG_test\\Program.cs",
+              "RelativeToolTip": "lionstudy73_textRPG_test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:11:01.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
